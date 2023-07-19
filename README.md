@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mikafadel@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/texoit/Downloads/Curr%C3%ADculo%20(1).pdf](file:///C:/Users/texoit/Downloads/Curr%C3%ADculo%20(1).pdf)
+- 📄 My Linkedln: **https://www.linkedin.com/in/yasmin-fadel/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
