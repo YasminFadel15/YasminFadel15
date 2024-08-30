@@ -46,6 +46,3 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminfadel15&" alt="yasminfadel15" />
   </p>
-  <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graphusername=yasminfadel15&bg_color=ffffff&color=000000&line=000000&point=00bfff&area=true&hide_border=true" alt="Yasmin's Activity Graph" />
-  </p>
